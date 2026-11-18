@@ -524,13 +524,13 @@ data/
 The data/ directory is excluded from GitHub using .gitignore.
 6. Run the Project
 The main project scripts include:
-main.py
-multi_image_pipeline.py
-multi_image_cnn.py
-compare_models.py
-visualize_results.py
-study_area.py
-performance_chart.py
+python main.py
+python multi_image_pipeline.py
+python multi_image_cnn.py
+python compare_models.py
+python visualize_results.py
+python study_area.py
+python performance_chart.py
 🔬 Key Outcomes
 The project demonstrates the application of Machine Learning and Deep Learning techniques for satellite-image-based landslide detection and segmentation.
 The major outcomes include:
@@ -573,11 +573,11 @@ Integrate near-real-time satellite imagery for future landslide monitoring.
 Improve landslide-area estimation using accurate geospatial resolution and coordinate information.
 👥 Team
 This project was developed as a two-member team as part of the virtual training program.
-Ankan Pandey
-Branch: Information Technology
-Course: B.Tech
 Bharti Sahu
 Branch: Artificial Intelligence
+Course: B.Tech
+Ankan Pandey
+Branch: Information Technology
 Course: B.Tech
 🏫 Training Program
 This project was developed as part of the:
